@@ -43,32 +43,42 @@ The Blades are a unit of ruthless and efficient fighters, feared by their enemie
 
 ### Dark Kindred Warrior Hunters
 
+These skilled fighters are hand-picked for their deadly efficiency and their ability to wield powerful weapons with deadly precision, commanding respect within their own ranks.
+
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Warrior Hunters    | -   | -   | -   | -   | -   | -   |                   |
+| Warrior Hunters    | 7   | 6   | 7   | 2   | 5   | 5   |                   |
 
 ### Dark Kindred Blade Executioners
 
+Executioners are a group of specially chosen warriors within the Blades, chosen as punishment for any number of failures, placed at the forefront of raids with lethal weapons, tasked with taking down the toughest opponents to redeem themselves through their actions on the battlefield.
+
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Blade Executioners | -   | -   | -   | -   | -   | -   |                   |
+| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   |                   |
 
 ## Elite Units
 
 ### Dark Kindred Reavers
 
+Reavers are skilled and deadly warriors, known for their lightning-fast jetbikes covered in lethal blades and grim trophies, and their ability to strike hard and fast, taking down their enemies while isolated from support.
+
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Reaver             | -   | -   | -   | -   | -   | -   |                   |
+| Reaver             | 12  | 5   | 6   | 2   | 5   | 8   | Fast, Flying      |
 
 ### Dark Kindred Skimmers
 
+The Skimmers are known for their agile and acrobatic flying on their powerful boards, striking from the skies to take down their enemies with lightning-fast precision.
+
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Skimmers           | -   | -   | -   | -   | -   | -   |                   |
+| Skimmers           | 10  | 6   | 10  | 2   | 5   | 5   | Fast, Flying      |
 
 ### Dark Kindred Harbingers
 
+Harbingers are agile and aloof warriors, known for their genetic and surgical modifications, including wings grown or grafted onto their bodies, and their ability to strike from afar with their powerful long-range sniper weapons.
+
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Harbingers         | -   | -   | -   | -   | -   | -   |                   |
+| Harbingers         | 9   | 5   | 7   | 2   | 5   | 5   | Ambush, Flying    |
