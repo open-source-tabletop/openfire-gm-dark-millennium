@@ -3,68 +3,64 @@
 Army List Dark Kindred
 ======================
 
-## Dark Kindred
+## Command Units
 
-A Dark Kindred Shadow War Army may include up to 4 **special** models and 2 **elite** models if they are being used.
+### Warrior Leader
 
-# Command
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Warrior Leader    | 6   | 4   | 7   | 2   | 4   | 7   |                   |
 
-## Warrior Leader
+### Witch Leader
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Warrior Leader |  6  |  4  |  7  |  4  |  7  |               |
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Witch Leader      | 7   | 4   | 10  | 2   | 4   | 7   |                   |
 
-## Witch Leader
+## Standard Units
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Witch Leader   |  7  |  4  | 10  |  4  |  7  |               |
+### Dark Kindred Warriors
 
-# Standard
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Model             | -   | -   | -   | -   | -   | -   |                   |
 
-## Warriors
+### Dark Kindred Blades
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Warrior        |  6  |  5  |  7  |  6  |  4  |               |
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Model             | -   | -   | -   | -   | -   | -   |                   |
 
-## Witches
+## Special Units
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Witch          |  7  |  5  | 10  |  5  |  4  |               |
+### Dark Kindred Warrior Hunters
 
-# Special
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Model             | -   | -   | -   | -   | -   | -   |                   |
 
-## Warrior Gunners
+### Witch Fighters
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Warrior Gunner |  6  |  5  |  7  |  6  |  4  |               |
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Model             | -   | -   | -   | -   | -   | -   |                   |
 
-## Witch Fighters
+## Elite Units
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Witch Fighter  |  7  |  5  | 10  |  5  |  4  |               |
+### Reavers
 
-# Elite
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Model             | -   | -   | -   | -   | -   | -   |                   |
 
-## Reavers
+### Skimmers
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Reaver         | 16  |  5  |  8  |  5  |  7  |               |
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Model             | -   | -   | -   | -   | -   | -   |                   |
 
-## Skimmers
+### Harbingers
 
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Skimmer        | 12  |  6  | 10  |  6  |  5  |               |
-
-## Harbingers
-
-| Model Name     | MOV | SKL | DEF | CMD | HP  | Special       |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Harbinger      | 12  |  4  |  8  |  4  |  5  |               |
+| Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Model             | -   | -   | -   | -   | -   | -   |                   |
