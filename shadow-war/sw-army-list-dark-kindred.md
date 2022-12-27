@@ -39,7 +39,7 @@ Army List Dark Kindred
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
 | Model             | -   | -   | -   | -   | -   | -   |                   |
 
-### Witch Fighters
+### Dark Kindred Blade Executioners
 
 | Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
@@ -47,19 +47,19 @@ Army List Dark Kindred
 
 ## Elite Units
 
-### Reavers
+### Dark Kindred Reavers
 
 | Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
 | Model             | -   | -   | -   | -   | -   | -   |                   |
 
-### Skimmers
+### Dark Kindred Skimmers
 
 | Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
 | Model             | -   | -   | -   | -   | -   | -   |                   |
 
-### Harbingers
+### Dark Kindred Harbingers
 
 | Model Name        | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
