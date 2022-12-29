@@ -71,7 +71,7 @@ A Dark Kindred Warrior Leader may be equipped with a Nightmare Grenade Launcher.
 
 ### Nightblade
 
-> Hated and feared by their enemies and even their own followers, the Nightblades are the most ruthless and depraved of the Blades's warriors. They wield powerful and painful weapons, striking fear into the hearts of their foes and rising through the ranks through assassination and betrayal.
+> Hated and feared by their enemies and even their own followers, the Nightblades are the most ruthless and depraved of the Blades' warriors. They wield powerful and painful weapons, striking fear into the hearts of their foes and rising through the ranks through assassination and betrayal.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                                     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------------------ |
