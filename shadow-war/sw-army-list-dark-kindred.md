@@ -56,7 +56,7 @@ Any time a model is killed within 6 inches of this model make a command roll, on
 
 ### Dark Kindred Warrior Leader
 
-The Warrior Leaders are depraved and sadistic, relishing in the suffering of their enemies and the thrill of battle. Driven by a desire for power and a thirst for battle, these squad leaders command their units with an iron fist, striking fear into the hearts of their enemies.
+> The Warrior Leaders are depraved and sadistic, relishing in the suffering of their enemies and the thrill of battle. Driven by a desire for power and a thirst for battle, these squad leaders command their units with an iron fist, striking fear into the hearts of their enemies.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------------- |
