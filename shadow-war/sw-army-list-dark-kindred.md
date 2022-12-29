@@ -71,7 +71,7 @@ A Dark Kindred Warrior Leader may be equipped with a Nightmare Grenade Launcher.
 
 ### Nightblade
 
-Hated and feared by their enemies and even their own followers, the Nightblades are the most ruthless and depraved of the Blades's warriors. They wield powerful and painful weapons, striking fear into the hearts of their foes and rising through the ranks through assassination and betrayal.
+> Hated and feared by their enemies and even their own followers, the Nightblades are the most ruthless and depraved of the Blades's warriors. They wield powerful and painful weapons, striking fear into the hearts of their foes and rising through the ranks through assassination and betrayal.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                                     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------------------ |
@@ -86,7 +86,7 @@ A Nightblade is equipped with one weapon from each of the following options:
 
 ### Dark Kindred Warriors
 
-These warriors of the Dark Kindred are skilled in the art of war and equipped with powerful and painful weapons, enjoying the pain and suffering they cause their enemies.
+> The warriors of the Dark Kindred are skilled in the art of war and equipped with powerful and painful weapons, enjoying the pain and suffering they cause their enemies.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
@@ -96,7 +96,7 @@ Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
 
 ### Dark Kindred Blades
 
-The Blades are a unit of ruthless and efficient fighters, feared by their enemies and reviled by their own followers for their brutal tactics and their powerful, painful weapons.
+> The Blades are a unit of ruthless and efficient fighters, feared by their enemies and reviled by their own followers for their brutal tactics and their powerful, painful weapons.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
@@ -108,7 +108,7 @@ Dark Kindred Blades are equipped with a Shard Pistol, Poisoned Knives, and a Pla
 
 ### Dark Kindred Warrior Hunters
 
-These skilled fighters are hand-picked for their deadly efficiency and their ability to wield powerful weapons with deadly precision, commanding respect within their own ranks.
+> These skilled fighters are hand-picked for their deadly efficiency and their ability to wield powerful weapons with deadly precision, commanding respect within their own ranks.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
@@ -123,11 +123,11 @@ Dark Kindred Hunters are armed with Vicious Blades and one weapon from the follo
 
 ### Dark Kindred Blade Executioners
 
-Executioners are a group of specially chosen warriors within the Blades, chosen as punishment for any number of failures, placed at the forefront of raids with lethal weapons, tasked with taking down the toughest opponents to redeem themselves through their actions on the battlefield.
+> Executioners are a group of specially chosen warriors within the Blades, chosen as punishment for any number of failures, placed at the forefront of raids with lethal weapons, tasked with taking down the toughest opponents to redeem themselves through their actions on the battlefield.
 
-| Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   | Combat Drugs      |
+| Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------- |
+| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   | Arena Champion, Combat Drugs |
 
 A Dark Kindred Executioner is armed with a Plasma Grenade and one of the following:
 
