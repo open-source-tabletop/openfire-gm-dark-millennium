@@ -86,7 +86,7 @@ A Nightblade is equipped with one weapon from each of the following options:
 
 ### Dark Kindred Warriors
 
-> The warriors of the Dark Kindred are skilled in the art of war and equipped with powerful and painful weapons, enjoying the pain and suffering they cause their enemies.
+> The warriors of the Dark Kindred are skilled in the art of war and equipped with deadly Shard weapons, spitting out razor sharp crystal fragments capable or ripping through flesh and armour, enjoying the pain and suffering they cause their enemies.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
@@ -96,7 +96,7 @@ Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
 
 ### Dark Kindred Blades
 
-> The Blades are a unit of ruthless and efficient fighters, feared by their enemies and reviled by their own followers for their brutal tactics and their powerful, painful weapons.
+> The Blades are a unit of ruthless and efficient fighters, feared by their enemies and reviled by their own followers for their brutal tactics and their vicious and brutal poisoned knives.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
@@ -108,7 +108,7 @@ Dark Kindred Blades are equipped with a Shard Pistol, Poisoned Knives, and a Pla
 
 ### Dark Kindred Warrior Hunters
 
-> These skilled fighters are hand-picked for their deadly efficiency and their ability to wield powerful weapons with deadly precision, commanding respect within their own ranks.
+> These skilled fighters are hand-picked for their deadly efficiency and their ability to wield archaic and devastating weapons with deadly precision, commanding a begrudging respect from within their own ranks.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
