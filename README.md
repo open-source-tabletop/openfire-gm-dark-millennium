@@ -7,19 +7,16 @@ Dark Millenium is a grim dark setting for the Open Fire system with three separa
 
 Dark Millenium is the standard way to play and is designed around 28mm miniatures, featuring multiple squads of infantry, special weapons, vehicles and more.
 
-- [View the Dark Millenium Game Module](#)
-- [View the army lists for Dark Millenium](#)
+- [View the Dark Millenium Game Module](dark-millenium/dark-millenium-game-module.md)
 
 ## Dark Millenium: Shadow War
 
 Shadow War is a small scale skirmish game allowing you to play smaller, more intense battles, featuring around 5 to 15 infantry scale models per player.
 
-- [View the Shadow War Game Module](#)
-- [View the army lists for Shadow War](#)
+- [View the Shadow War Game Module](shadow-war/shadow-war-game-module.md)
 
 ## Dark Millenium: Apocalypse
 
 Apocalypse takes the game to a much larger scale, with miniatures between 6-10mm, players will field entire detachments, dozens of vehicles and immense machines of war.
 
-- [View the Apocalypse Game Module](#)
-- [View the army lists for Apocalypse](#)
+- [View the Apocalypse Game Module](apocalypse/apocalypse-game-module.md)
