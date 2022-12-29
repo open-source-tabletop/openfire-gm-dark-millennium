@@ -3,6 +3,29 @@
 Army List Dark Kindred
 ======================
 
+## Special Rules
+
+### Prey on the Weak
+
+This rule applies to all models in a Dark Kindred army. When attacking an enemy model within assault range that is hurt the attacking Dark Kindred model gains +1 to their skill roll. When attacking models that are wounded this is increased to +2.
+
+### Driven by Pain
+
+This rule applies to all models in a Dark Kindred army. When a model is hurt it does not suffer the -1 modifier to their movement, skill, or defence rolls.
+
+### Combat Drugs
+
+Models with this rule are able to boost their skills in battle. At the start of the models first activation, after it has been placed on the table, determine which effect the combat drugs will have by rolling a D12 and consulting the following table.
+
+| D12 Result | Effect                                          |
+| :--------: | :---------------------------------------------- |
+| 1-3        | The model gains the Fast special rule           |
+| 4-6        | The model gains +1 defence and +1 HP            |
+| 7-9        | The model gains +1 skill and +1 strength        |
+| 10-12      | The model gains +4 defence against free attacks |
+
+The effect of the combat drugs should be noted on your army list.
+
 ## Command Units
 
 ### Dark Kindred Warrior Leader
@@ -19,7 +42,7 @@ Hated and feared by their enemies and even their own followers, the Nightblades 
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Nightblade         | 7   | 5   | 10  | 2   | 4   | 7   |                   |
+| Nightblade         | 7   | 5   | 10  | 2   | 4   | 7   | Combat Drugs      |
 
 ## Standard Units
 
@@ -31,13 +54,17 @@ These warriors of the Dark Kindred are skilled in the art of war and equipped wi
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
 | Warriors           | 7   | 6   | 7   | 2   | 5   | 5   |                   |
 
+Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
+
 ### Dark Kindred Blades
 
 The Blades are a unit of ruthless and efficient fighters, feared by their enemies and reviled by their own followers for their brutal tactics and their powerful, painful weapons.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Blades             | 7   | 6   | 10  | 2   | 5   | 5   |                   |
+| Blades             | 7   | 6   | 10  | 2   | 5   | 5   | Combat Drugs      |
+
+Dark Kindred Blades are equipped with a Shard Pistol, Poisoned Knives, and a Plasma Grenade.
 
 ## Special Units
 
@@ -49,13 +76,26 @@ These skilled fighters are hand-picked for their deadly efficiency and their abi
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
 | Warrior Hunters    | 7   | 6   | 7   | 2   | 5   | 5   |                   |
 
+Dark Kindred Hunters are armed with Vicious Blades and one weapon from the following list:
+
+- Dark Matter Cannon
+- Dark Matter Blaster
+- Shard Cannon
+- Ripper
+
 ### Dark Kindred Blade Executioners
 
 Executioners are a group of specially chosen warriors within the Blades, chosen as punishment for any number of failures, placed at the forefront of raids with lethal weapons, tasked with taking down the toughest opponents to redeem themselves through their actions on the battlefield.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   |                   |
+| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   | Combat Drugs      |
+
+A Dark Kindred Executioner is armed with a Plasma Grenade and one of the following:
+
+- Eviscerator Gauntlet
+- Barbed Flail
+- Voidnet and Shadowblade
 
 ## Elite Units
 
@@ -82,3 +122,23 @@ Harbingers are agile and aloof warriors, known for their genetic and surgical mo
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
 | Harbingers         | 9   | 5   | 7   | 2   | 5   | 5   | Ambush, Flying    |
+
+## Weapons
+
+| Ranged Weapons         | Rng | Att | Dmg | Prc | Special Rules                   |
+| :--------------------- | :-: | :-: | :-: | :-: | :------------------------------ |
+| Shard Rifle            | 24  | 3   | 2   | 0   | Rapid Fire, Rending (1)         |
+| Shard Pistol           | 12  | 2   | 2   | 0   | Rending (1)                     |
+| Dark Matter Cannon     | 36  | 2   | 5   | 4   | Heavy                           |
+| Dark Matter Blaster    | 12  | 3   | 5   | 4   |                                 |
+| Shard Cannon           | 30  | 3   | 3   | 1   | Rending (2)                     |
+| Ripper                 | 10  | 4   | 4   | 3   |                                 |
+| Plasma Grenade         | 4-8 | 3   | 3   | 2   | Grenade                         |
+
+| Assault Weapons         | Rng | Att | Dmg | Prc | Special Rules                   |
+| :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ |
+| Vicious Blades          | 1   | 2   | Str | 0   | Assault                         |
+| Poisoned Knives         | 1   | 3   | Str | 1   | Assault, Rending (2)            |
+| Eviscerator Gauntlet    | 1   | 3   |Str+1| 3   | Assault                         |
+| Barbed Flail            | 1   | 5   | Str | 0   | Assault                         |
+| Voidnet and Shadowblade | 1   | 3   | Str | 3   | Rending (3)                     |
