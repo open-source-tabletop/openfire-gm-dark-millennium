@@ -52,6 +52,9 @@ Attacks against this model that have an obscured line of sight suffer a -2 to th
 
 Any time a model is killed within 6 inches of this model make a command roll, on a successful roll this model regains 1 lost hit point. This rule cannot take the model above it's starting hit points.
 
+Dark Kindred Units
+==================
+
 ## Command Units
 
 ### Dark Kindred Warrior Leader
@@ -60,7 +63,7 @@ Any time a model is killed within 6 inches of this model make a command roll, on
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------------- |
-| Warrior Leader     | 7   | 5   | 7   | 2   | 4   | 7   | Shadow Hunter, Soul Drain         |
+| Warrior Leader     | 7   | 6   | 7   | 2   | 4   | 7   | Shadow Hunter, Soul Drain         |
 
 A Dark Kindred Warrior Leader is equipped with a Plasma Grenade and one weapon from each of the following options:
 
@@ -90,7 +93,7 @@ A Nightblade is equipped with one weapon from each of the following options:
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Warriors           | 7   | 6   | 7   | 2   | 5   | 5   |                   |
+| Warriors           | 7   | 7   | 7   | 2   | 5   | 5   |                   |
 
 Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
 
@@ -100,7 +103,7 @@ Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Blades             | 7   | 6   | 10  | 2   | 5   | 5   | Combat Drugs      |
+| Blades             | 7   | 7   | 10  | 2   | 5   | 5   | Combat Drugs      |
 
 Dark Kindred Blades are equipped with a Shard Pistol, Poisoned Knives, and a Plasma Grenade.
 
@@ -165,7 +168,8 @@ Harbingers are agile and aloof warriors, known for their genetic and surgical mo
 
 -->
 
-## Weapons
+Dark Kindred Weapons
+====================
 
 | Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                   |
 | :------------------------- | :-: | :-: | :-: | :-: | :------------------------------ |

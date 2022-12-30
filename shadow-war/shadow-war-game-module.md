@@ -17,7 +17,7 @@ Creating an army for Dark Millenium: Shadow War is very simple and you can choos
 - 1 Command Model
 - 1+ Standard Models
 - 0-2 Special Models
-- 0 Elite Models (in standard games)
+- 0-2 Elite Models (in Elite games only)
 
 If players agree you may also include Elite models in your armies. If you are using Elites then you may select up to 150 points of models instead of 100 and may also include up to 2 Elite models in your army.
 
