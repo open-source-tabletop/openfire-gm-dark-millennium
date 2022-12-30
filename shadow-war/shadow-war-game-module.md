@@ -25,4 +25,15 @@ If players agree you may also include Elite models in your armies. If you are us
 
 The following army lists are currently available for Dark Millenium: Shadow War.
 
+## Imperial Armies
+
+- [Imperial Guard](sw-army-list-imperial-guard.md)
+
+## Demonic Armies
+
+- [Infernals](sw-army-list-infernals.md)
+
+## Alien Armies
+
 - [Dark Kindred](sw-army-list-dark-kindred.md)
+- [Legions of Malakyr](sw-army-list-legions-of-malakyr.md)
