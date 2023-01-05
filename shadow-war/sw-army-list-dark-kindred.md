@@ -143,13 +143,13 @@ A Dark Kindred Executioner is armed with a Plasma Grenade and one of the followi
 
 ### Dark Kindred Reavers
 
-Reavers are skilled and deadly warriors, known for their lightning-fast jetbikes covered in lethal blades and grim trophies, and their ability to strike hard and fast, taking down their enemies while isolated from support.
+> Reavers are skilled and deadly warriors, known for their lightning-fast jetbikes covered in lethal blades and grim trophies, and their ability to strike hard and fast, taking down their enemies while isolated from support.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                              |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------------------- |
 | Reaver             | 16  | 6   | 6   | 2   | 5   | 8   | Arena Champion, Combat Drugs, Fast, Flying |
 
-A Reaver is equipped with a Shard Pistol, Shard Rifle, and Eviscerating Blades.
+A Reaver is equipped with a Shard Pistol, Shard Rifle, and Reaver Blades.
 
 This model may also be armed with a Plasma Blade
 
