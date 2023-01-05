@@ -138,7 +138,6 @@ A Dark Kindred Executioner is armed with a Plasma Grenade and one of the followi
 - Barbed Flail
 - Voidnet and Shadowblade
 
-<!-- TO BE ADDED
 
 ## Elite Units
 
@@ -146,9 +145,17 @@ A Dark Kindred Executioner is armed with a Plasma Grenade and one of the followi
 
 Reavers are skilled and deadly warriors, known for their lightning-fast jetbikes covered in lethal blades and grim trophies, and their ability to strike hard and fast, taking down their enemies while isolated from support.
 
-| Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Reaver             | 12  | 5   | 6   | 2   | 5   | 8   | Fast, Flying      |
+| Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                              |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------------------- |
+| Reaver             | 16  | 6   | 6   | 2   | 5   | 8   | Arena Champion, Combat Drugs, Fast, Flying |
+
+A Reaver is equipped with a Shard Pistol, Shard Rifle, and Eviscerating Blades.
+
+This model may also be armed with a Plasma Blade
+
+One Reaver in your army may replace it's Shard Rifle with a Dark Matter Blaster or Dark Matter Cannon.
+
+<!-- TO BE ADDED
 
 ### Dark Kindred Skimmers
 
@@ -168,26 +175,41 @@ Harbingers are agile and aloof warriors, known for their genetic and surgical mo
 
 -->
 
+Dark Kindred Unit Summary
+=========================
+
+| Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                                     | Points |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------------------ | :----: |
+| Warrior Leader     | 7   | 6   | 7   | 2   | 4   | 7   | Shadow Hunter, Soul Drain                         | 12     |
+| Nightblade         | 7   | 5   | 10  | 2   | 4   | 7   | Arena Champion, Combat Drugs, Lightning Reactions | 11     |
+| Warriors           | 7   | 7   | 7   | 2   | 5   | 5   |                                                   | 9      |
+| Blades             | 7   | 7   | 10  | 2   | 5   | 5   | Combat Drugs                                      | 8      |
+| Warrior Hunters    | 7   | 6   | 7   | 2   | 5   | 5   |                                                   | 9      |
+| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   | Arena Champion, Combat Drugs                      | 9      |
+| Reaver             | 16  | 6   | 6   | 2   | 5   | 8   | Arena Champion, Combat Drugs, Fast, Flying        | 16     |
+
 Dark Kindred Weapons
 ====================
 
-| Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                   |
-| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------ |
-| Dark Matter Blaster        | 12  | 3   | 5   | 4   |                                 |
-| Dark Matter Cannon         | 36  | 2   | 5   | 4   | Heavy                           |
-| Nightmare Grenade Launcher | 12  | 3   | 2   | 0   | Nightmare Grenades, One Use     |
-| Plasma Grenade             | 4-8 | 3   | 3   | 2   | Grenade                         |
-| Ripper                     | 10  | 4   | 4   | 3   |                                 |
-| Shard Cannon               | 30  | 3   | 3   | 1   | Rending (2)                     |
-| Shard Cannon               | 30  | 3   | 3   | 1   | Rending (2)                     |
-| Shard Rifle                | 24  | 3   | 2   | 0   | Rapid Fire, Rending (1)         |
+| Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                   | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
+| Dark Matter Blaster        | 14  | 3   | 5   | 4   |                                 | 2      |
+| Dark Matter Cannon         | 36  | 2   | 5   | 4   | Heavy                           | 2      |
+| Dark Matter Pistol         | 10  | 2   | 4   | 4   | Assault                         | 1      |
+| Nightmare Grenade Launcher | 12  | 3   | 2   | 0   | Nightmare Grenades, One Use     | 0      |
+| Plasma Grenade             | 4-8 | 3   | 3   | 2   | Grenade                         | 0      |
+| Ripper                     | 10  | 4   | 4   | 3   |                                 | 2      |
+| Shard Cannon               | 30  | 3   | 3   | 1   | Rending (2)                     | 1      |
+| Shard Pistol               | 12  | 3   | 2   | 0   | Assault, Rending (1)            | 0      |
+| Shard Rifle                | 24  | 3   | 2   | 0   | Rapid Fire, Rending (1)         | 0      |
 
-| Assault Weapons         | Rng | Att | Dmg | Prc | Special Rules                   |
-| :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ |
-| Barbed Flail            | 1   | 5   | Str | 0   | Assault                         |
-| Eviscerator Gauntlet    | 1   | 3   |Str+1| 3   | Assault                         |
-| Plasma Blade            | 1   | 3   | 3   | 4   | Assault                         |
-| Poisoned Knives         | 1   | 3   | Str | 1   | Assault, Rending (2)            |
-| Razor Flail             | 1   | 4   | 3   | 2   | Assault                         |
-| Vicious Blades          | 1   | 2   | Str | 0   | Assault                         |
-| Voidnet and Shadowblade | 1   | 3   | Str | 3   | Assault, Rending (3)            |
+| Assault Weapons         | Rng | Att | Dmg | Prc | Special Rules                   | Points |
+| :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
+| Barbed Flail            | 1   | 5   | Str | 0   | Assault                         | 1      |
+| Eviscerator Gauntlet    | 1   | 3   |Str+1| 3   | Assault                         | 1      |
+| Plasma Blade            | 1   | 3   | 3   | 4   | Assault                         | 1      |
+| Poisoned Knives         | 1   | 3   | Str | 1   | Assault, Rending (2)            | 0      |
+| Razor Flail             | 1   | 4   | 3   | 2   | Assault                         | 1      |
+| Reaver Blades           | 1   | 2   | 5   | 2   | Assault                         | 1      |
+| Vicious Blades          | 1   | 2   | Str | 0   | Assault                         | 0      |
+| Voidnet and Shadowblade | 1   | 3   | Str | 3   | Assault, Rending (3)            | 1      |
