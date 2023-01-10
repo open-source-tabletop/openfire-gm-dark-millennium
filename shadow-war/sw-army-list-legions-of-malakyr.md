@@ -36,9 +36,9 @@ Legions of Malakyr Units
 
 | Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
-| Legion Warrior Nexus  | 6   | 7   | 8   | 3   | 3   | 5   | Nexus, Slow, Unending March    |
+| Legion Warrior Nexus  | 5   | 7   | 8   | 3   | 3   | 5   | Nexus, Slow, Unending March    |
 
-A Legion Warrior Nexus is armed with either a Disintegrator Rifle or Disintegrator Carbine.
+A Legion Warrior Nexus is armed with either a Disintegrator Rifle or Disintegrator Carbine and a Monoblade.
 
 ## Standard Units
 
@@ -46,17 +46,17 @@ A Legion Warrior Nexus is armed with either a Disintegrator Rifle or Disintegrat
 
 | Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
-| Legion Warrior        | 6   | 7   | 8   | 3   | 3   | 5   | Slow, Unending March           |
+| Legion Warrior        | 5   | 7   | 8   | 3   | 3   | 5   | Slow, Unending March           |
 
-A Legion Warrior is armed with either a Disintegrator Rifle or Disintegrator Carbine
+A Legion Warrior is armed with either a Disintegrator Rifle or Disintegrator Carbine and a Monoblade.
 
 ### Legion Sentinels
 
 | Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
-| Legion Sentinel       | 6   | 6   | 7   | 3   | 3   | 6   | Slow                           |
+| Legion Sentinel       | 5   | 6   | 7   | 3   | 3   | 6   | Slow                           |
 
-A Legion Sentinel is armed with either a Disintegrator Blaster or Lightning Carbine.
+A Legion Sentinel is armed with either a Disintegrator Blaster or Lightning Carbine and a Monoblade.
 
 ## Special Units
 
@@ -64,7 +64,7 @@ A Legion Sentinel is armed with either a Disintegrator Blaster or Lightning Carb
 
 | Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
-| Legion Executor       | 6   | 6   | 7   | 3   | 3   | 5   | Ambush, Slow                   |
+| Legion Executor       | 5   | 6   | 7   | 3   | 3   | 5   | Ambush, Slow                   |
 
 A Legion Executor is armed with a Quantum Disintegrator.
 
@@ -72,25 +72,64 @@ A Legion Executor is armed with a Quantum Disintegrator.
 
 | Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
-| Legion Corrupted      | 6   | 7   | 8   | 3   | 3   | 5   | Ambush, Fear (2)               |
+| Legion Corrupted      | 5   | 7   | 8   | 3   | 3   | 5   | Ambush, Fear (2)               |
 
 A Legion Corrupted is armed with Razor Claws.
 
-<!-- TO BE ADDED
 ## Elite Units
--->
+
+### Legion Voidblades
+
+| Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
+| :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
+| Legion Voidblade      | 14  | 7   | 8   | 3   | 3   | 7   | Flying                         |
+
+A Legion Voidblade
+
+### Destroyer Reapers
+
+| Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
+| :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
+| Destroyer Reaper      | 8   | 6   | 7   | 4   | 3   | 7   |                                |
+
+A Destroyer Reaper is armed with Quantum Blades.
+
+### Destroyer Annihilator
+
+| Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  |
+| :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- |
+| Destroyer Annihilator | 8   | 6   | 7   | 3   | 3   | 7   | Flying                         |
+
+A Destroyer Annihilator is armed with a Disintegrator Cannon.
+
+Legions of Malakyr Unit Summary
+===============================
+
+| Model Name            | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                  | Points |
+| :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------- | :----: |
+| Legion Warrior Nexus  | 5   | 7   | 8   | 3   | 3   | 5   | Nexus, Slow, Unending March    | 11     |
+| Legion Warrior        | 5   | 7   | 8   | 3   | 3   | 5   | Slow, Unending March           | 11     |
+| Legion Sentinel       | 5   | 6   | 7   | 3   | 3   | 6   | Slow                           | 12     |
+| Legion Executor       | 5   | 6   | 7   | 3   | 3   | 5   | Ambush, Slow                   | 13     |
+| Legion Corrupted      | 5   | 7   | 8   | 3   | 3   | 5   | Ambush, Fear (2)               | 11     |
+| Legion Voidblade      | 14  | 7   | 8   | 3   | 3   | 7   | Flying                         | 16     |
+| Destroyer Reaper      | 8   | 6   | 7   | 4   | 3   | 7   |                                | 24     |
+| Destroyer Annihilator | 8   | 6   | 7   | 3   | 3   | 7   | Flying                         | 20     |
 
 Legions of Malakyr Weapons
 ==========================
 
-| Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                          |
-| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------------- |
-| Disintegrator Blaster      | 30  | 3   | 2   | 3   | Rapid Fire                             |
-| Disintegrator Carbine      | 12  | 3   | 2   | 3   | Rending (2)                            |
-| Disintegrator Rifle        | 24  | 2   | 2   | 2   | Rapid Fire                             |
-| Lightning Carbine          | 24  | 3   | 3   | 0   | Lightning                              |
-| Quantum Disintegrator      | 32  | 4   | 2   | 3   | Heavy                                  |
+| Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                          | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------------- | :----: |
+| Disintegrator Blaster      | 30  | 3   | 2   | 3   | Rapid Fire                             | 1      |
+| Disintegrator Carbine      | 12  | 3   | 2   | 3   | Rending (2)                            | 0      |
+| Disintegrator Cannon       | 24  | 2   | 5   | 3   |                                        | 2      |
+| Disintegrator Rifle        | 24  | 2   | 2   | 2   | Rapid Fire                             | 0      |
+| Lightning Carbine          | 24  | 3   | 3   | 0   | Lightning                              | 1      |
+| Quantum Disintegrator      | 32  | 4   | 2   | 3   | Heavy                                  | 2      |
 
-| Assault Weapons            | Rng | Att | Dmg | Prc | Special Rules                          |
-| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------------- |
-| Razor Claws                | 1   | 2   | Str | 1   | Fear (2), Rending (2)                  |
+| Assault Weapons            | Rng | Att | Dmg | Prc | Special Rules                          | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------------- | :----: |
+| Monoblade                  | 1   | 1   | Str | 0   |                                        | 0      |
+| Razor Claws                | 1   | 2   | Str | 1   | Rending (2)                            | 0      |
+| Quantum Blades             | 1   | 4   | 4   | 4   |                                        | 2      |

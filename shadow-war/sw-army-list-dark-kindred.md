@@ -63,7 +63,7 @@ Dark Kindred Units
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------------- |
-| Warrior Leader     | 7   | 6   | 7   | 2   | 4   | 7   | Shadow Hunter, Soul Drain         |
+| Warrior Leader     | 7   | 6   | 9   | 2   | 4   | 7   | Shadow Hunter, Soul Drain         |
 
 A Dark Kindred Warrior Leader is equipped with a Plasma Grenade and one weapon from each of the following options:
 
@@ -78,7 +78,7 @@ A Dark Kindred Warrior Leader may be equipped with a Nightmare Grenade Launcher.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                                     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------------------ |
-| Nightblade         | 7   | 5   | 10  | 2   | 4   | 7   | Arena Champion, Combat Drugs, Lightning Reactions |
+| Nightblade         | 7   | 5   | 11  | 2   | 4   | 7   | Arena Champion, Combat Drugs, Lightning Reactions |
 
 A Nightblade is equipped with one weapon from each of the following options:
 
@@ -93,7 +93,7 @@ A Nightblade is equipped with one weapon from each of the following options:
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Warriors           | 7   | 7   | 7   | 2   | 5   | 5   |                   |
+| Warriors           | 7   | 7   | 9   | 2   | 5   | 5   |                   |
 
 Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
 
@@ -103,7 +103,7 @@ Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Blades             | 7   | 7   | 10  | 2   | 5   | 5   | Combat Drugs      |
+| Blades             | 7   | 7   | 11  | 2   | 5   | 5   | Combat Drugs      |
 
 Dark Kindred Blades are equipped with a Shard Pistol, Poisoned Knives, and a Plasma Grenade.
 
@@ -115,7 +115,7 @@ Dark Kindred Blades are equipped with a Shard Pistol, Poisoned Knives, and a Pla
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules     |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Warrior Hunters    | 7   | 6   | 7   | 2   | 5   | 5   |                   |
+| Warrior Hunters    | 7   | 6   | 9   | 2   | 5   | 5   |                   |
 
 Dark Kindred Hunters are armed with Vicious Blades and one weapon from the following list:
 
@@ -130,7 +130,7 @@ Dark Kindred Hunters are armed with Vicious Blades and one weapon from the follo
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------- |
-| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   | Arena Champion, Combat Drugs |
+| Blade Executioners | 7   | 6   | 11  | 2   | 5   | 5   | Arena Champion, Combat Drugs |
 
 A Dark Kindred Executioner is armed with a Plasma Grenade and one of the following:
 
@@ -147,7 +147,7 @@ A Dark Kindred Executioner is armed with a Plasma Grenade and one of the followi
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                              |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------------------------- |
-| Reaver             | 16  | 6   | 6   | 2   | 5   | 8   | Arena Champion, Combat Drugs, Fast, Flying |
+| Reaver             | 16  | 6   | 8   | 2   | 5   | 8   | Arena Champion, Combat Drugs, Fast, Flying |
 
 A Reaver is equipped with a Shard Pistol, Shard Rifle, and Reaver Blades.
 
@@ -180,13 +180,13 @@ Dark Kindred Unit Summary
 
 | Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                                     | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------------------ | :----: |
-| Warrior Leader     | 7   | 6   | 7   | 2   | 4   | 7   | Shadow Hunter, Soul Drain                         | 12     |
-| Nightblade         | 7   | 5   | 10  | 2   | 4   | 7   | Arena Champion, Combat Drugs, Lightning Reactions | 11     |
-| Warriors           | 7   | 7   | 7   | 2   | 5   | 5   |                                                   | 9      |
-| Blades             | 7   | 7   | 10  | 2   | 5   | 5   | Combat Drugs                                      | 8      |
-| Warrior Hunters    | 7   | 6   | 7   | 2   | 5   | 5   |                                                   | 9      |
-| Blade Executioners | 7   | 6   | 10  | 2   | 5   | 5   | Arena Champion, Combat Drugs                      | 9      |
-| Reaver             | 16  | 6   | 6   | 2   | 5   | 8   | Arena Champion, Combat Drugs, Fast, Flying        | 16     |
+| Warrior Leader     | 7   | 6   | 9   | 2   | 4   | 7   | Shadow Hunter, Soul Drain                         | 12     |
+| Nightblade         | 7   | 5   | 11  | 2   | 4   | 7   | Arena Champion, Combat Drugs, Lightning Reactions | 11     |
+| Warriors           | 7   | 7   | 9   | 2   | 5   | 5   |                                                   | 9      |
+| Blades             | 7   | 7   | 11  | 2   | 5   | 5   | Combat Drugs                                      | 8      |
+| Warrior Hunters    | 7   | 6   | 9   | 2   | 5   | 5   |                                                   | 9      |
+| Blade Executioners | 7   | 6   | 11  | 2   | 5   | 5   | Arena Champion, Combat Drugs                      | 9      |
+| Reaver             | 16  | 6   | 8   | 2   | 5   | 8   | Arena Champion, Combat Drugs, Fast, Flying        | 22     |
 
 Dark Kindred Weapons
 ====================
